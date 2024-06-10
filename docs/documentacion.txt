@@ -1,0 +1,25 @@
+En esta seccion se llevara toda la documentacion del proyecto.
+
+Definicion de carpetas: modelo MVC (Modelo-Vista-Controlador).
+
+app/
+    models/:Esta carpeta contendrá las clases que representan los modelos de datos del sistema. 
+    Cada archivo puede contener una clase que represente una entidad en el sistema, como Usuario,Bedel,Administrador,etc.
+
+    views/:la carpeta "views" estaría principalmente orientada al GUI (Interfaz Gráfica de Usuario) del programa.
+    Aca es donde colocaríamos todos los archivos que representan las diferentes vistas que el usuario verá en la aplicación.
+
+    controllers/:Esta carpeta contendrá los controladores que manejan las solicitudes del usuario y coordinan la interacción entre el modelo y la vista.
+    Cada controlador puede tener métodos para manejar diferentes rutas o acciones
+
+    services/: Aca se encuentran los servicios que encapsulan la lógica de negocio del sistema, como la autenticación, la autorización, la validación, etc.
+
+    utils/: Carpeta para utilidades y funciones auxiliares que pueden ser utilizadas en todo el proyecto.
+
+config/: Contiene archivos de configuración del sistema, como configuraciones de base de datos, configuraciones de entorno, etc.
+
+public/: Esta carpeta contiene los recursos públicos del sistema, como archivos CSS, JavaScript, imágenes, etc. Los archivos aquí son accesibles directamente desde el navegador.
+
+tests/: Aquí se encuentran los casos de prueba del sistema. Puede dividirse en subcarpetas según el tipo de prueba (unitarias, de integración, etc.).
+
+docs/: Carpeta para la documentación del proyecto, que puede incluir documentos de diseño, manuales de usuario, etc.
