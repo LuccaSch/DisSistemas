@@ -1,0 +1,2 @@
+views/:la carpeta "views" estaría principalmente orientada al GUI (Interfaz Gráfica de Usuario) del programa.
+    Aca es donde colocaríamos todos los archivos que representan las diferentes vistas que el usuario verá en la aplicación.

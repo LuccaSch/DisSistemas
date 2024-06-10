@@ -1,0 +1,1 @@
+config/: Contiene archivos de configuración del sistema, como configuraciones de base de datos, configuraciones de entorno, etc.

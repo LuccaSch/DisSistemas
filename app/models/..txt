@@ -1,0 +1,2 @@
+models/:Esta carpeta contendrá las clases que representan los modelos de datos del sistema. 
+    Cada archivo puede contener una clase que represente una entidad en el sistema, como Usuario,Bedel,Administrador,etc.

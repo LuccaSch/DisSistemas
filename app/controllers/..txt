@@ -1,0 +1,2 @@
+controllers/:Esta carpeta contendrá los controladores que manejan las solicitudes del usuario y coordinan la interacción entre el modelo y la vista.
+    Cada controlador puede tener métodos para manejar diferentes rutas o acciones

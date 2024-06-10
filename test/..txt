@@ -1,0 +1,1 @@
+tests/: Aquí se encuentran los casos de prueba del sistema. Puede dividirse en subcarpetas según el tipo de prueba (unitarias, de integración, etc.).

@@ -1,0 +1,1 @@
+public/: Esta carpeta contiene los recursos públicos del sistema, como archivos CSS, JavaScript, imágenes, etc. Los archivos aquí son accesibles directamente desde el navegador.
